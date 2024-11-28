@@ -1,0 +1,16 @@
+.colorCasate{
+    height: 50px;
+    width: 200px;
+}
+
+.imgCard{
+    height: 300px;
+    width: 100%
+}
+
+.sfondo{
+    background-image: url("../../public/media/hogwortz.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
